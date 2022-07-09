@@ -1,0 +1,16 @@
+Assignment 1 :write  find averge of numbers in array ,max of array ,min of array using muticste delegate
+2 Write abstract class Shape with abstract method Area () and Circumference  inherit this to rectangle class 
+3 Write IPRintable interface with Print () method implement it in Rectangle class.
+4 Write class Circle with virtual Method Area () , inherit it to class Sphere 
+5 In Sphere class write overridden method Area() to display Surface Area of shpere 
+
+Do following excerise when classroom training is complete.
+
+
+
+
+=============================================================================
+2 use Func delegate to call a  Addthreenumber function (int,float,int) 
+3 use Action delegate to call ShowFullname(fname, lname) in capital
+ 4 use Predicate to check string size >4
+ 5 Write one example function in engineering field for each generic delegate.

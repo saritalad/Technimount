@@ -1,0 +1,26 @@
+D:\chaitanyab\C#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.exe
+D:\chaitanyab\C#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.pdb
+D:\chaitanyab\C#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\ResolveAssemblyReference.cache
+D:\chaitanyab\C#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+D:\chaitanyab\C#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+\\192.168.1.2\eltp\Common\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+\\192.168.1.2\eltp\Common\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+\\192.168.1.2\eltp\Common\Previous Data\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+\\192.168.1.2\eltp\Common\Previous Data\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+\\192.168.1.2\eltp\Common\Previous Data\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.exe
+\\192.168.1.2\eltp\Common\Previous Data\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.pdb
+\\192.168.1.2\eltp\Common\Previous Data\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\ResolveAssemblyReference.cache
+D:\Prashant\My Code\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+D:\Prashant\My Code\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+D:\Prashant\My Code\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.exe
+D:\Prashant\My Code\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.pdb
+D:\Prashant\My Code\Prashant_c#\XMLDemo\XMLDEMO\XMLDEMO\obj\Debug\ResolveAssemblyReference.cache
+E:\ClassroomDemo\CD\Classroom Demos\Session3_XML in .NET\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+E:\ClassroomDemo\CD\Classroom Demos\Session3_XML in .NET\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+E:\ClassroomDemo\CD\Classroom Demos\Session3_XML in .NET\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.exe
+E:\ClassroomDemo\CD\Classroom Demos\Session3_XML in .NET\XMLDEMO\XMLDEMO\bin\Debug\XMLDEMO.pdb
+E:\ClassroomDemo\CD\Classroom Demos\Session3_XML in .NET\XMLDEMO\XMLDEMO\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+Z:\A_Win App Projects\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb
+Z:\Window Applications\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.exe
+Z:\Window Applications\XMLDEMO\XMLDEMO\obj\Debug\XMLDEMO.pdb

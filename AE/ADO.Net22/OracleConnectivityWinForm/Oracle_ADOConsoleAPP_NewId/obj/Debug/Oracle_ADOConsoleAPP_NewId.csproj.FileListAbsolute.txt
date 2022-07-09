@@ -1,0 +1,16 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\Oracle_ADOConsoleAPP_NewId.exe.config
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\Oracle_ADOConsoleAPP_NewId.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\Oracle_ADOConsoleAPP_NewId.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.AccessControl.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.Permissions.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.Principal.Windows.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.AccessControl.xml
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.Permissions.xml
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\bin\Debug\System.Security.Principal.Windows.xml
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\obj\Debug\Oracle_ADOConsoleAPP_NewId.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\obj\Debug\Oracle_ADOConsoleAPP_NewId.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\obj\Debug\Oracle_ADOConsoleAPP_NewId.csproj.CopyComplete
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\obj\Debug\Oracle_ADOConsoleAPP_NewId.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\OracleConnectivityWinForm\Oracle_ADOConsoleAPP_NewId\obj\Debug\Oracle_ADOConsoleAPP_NewId.pdb

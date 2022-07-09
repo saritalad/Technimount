@@ -1,0 +1,45 @@
+D:\File Operations\bin\Debug\File Operations.exe
+D:\File Operations\bin\Debug\File Operations.pdb
+D:\File Operations\obj\Debug\ResolveAssemblyReference.cache
+D:\File Operations\obj\Debug\File_Operations.Form1.resources
+D:\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+D:\File Operations\obj\Debug\File Operations.csproj.GenerateResource.Cache
+D:\File Operations\obj\Debug\File Operations.exe
+D:\File Operations\obj\Debug\File Operations.pdb
+H:\File Operations\obj\Debug\File Operations.exe
+H:\File Operations\obj\Debug\File Operations.pdb
+\\nalanda\MODULAR FACULTY\sarita.lad\File Operations\obj\Debug\File Operations.exe
+\\nalanda\MODULAR FACULTY\sarita.lad\File Operations\obj\Debug\File Operations.pdb
+Z:\File Operations\bin\Debug\File Operations.exe
+Z:\File Operations\bin\Debug\File Operations.pdb
+Z:\File Operations\obj\Debug\ResolveAssemblyReference.cache
+Z:\File Operations\obj\Debug\File_Operations.Form1.resources
+Z:\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+Z:\File Operations\obj\Debug\File Operations.csproj.GenerateResource.Cache
+Z:\File Operations\obj\Debug\File Operations.exe
+Z:\File Operations\obj\Debug\File Operations.pdb
+Z:\A_Win App Projects\File Operations\obj\Debug\File Operations.exe
+Z:\A_Win App Projects\File Operations\obj\Debug\File Operations.pdb
+Z:\A_Win App Projects\File Operations\bin\Debug\File Operations.exe
+Z:\A_Win App Projects\File Operations\bin\Debug\File Operations.pdb
+Z:\A_Win App Projects\File Operations\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\File Operations\obj\Debug\File_Operations.Form1.resources
+Z:\A_Win App Projects\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+Z:\A_Win App Projects\File Operations\obj\Debug\File Operations.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\File Operations\obj\Debug\File Operations.exe
+D:\A_Seed\Window Applications\File Operations\obj\Debug\File Operations.pdb
+D:\A_Seed\Window Applications\File Operations\obj\Debug\ResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\File Operations\obj\Debug\File_Operations.Form1.resources
+D:\A_Seed\Window Applications\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+D:\A_Seed\Window Applications\File Operations\obj\Debug\File Operations.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\File Operations\bin\Debug\File Operations.exe
+D:\A_Seed\Window Applications\File Operations\bin\Debug\File Operations.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\bin\Debug\File Operations.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\bin\Debug\File Operations.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File Operations.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File_Operations.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File Operations.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File Operations.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File Operations.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\obj\Debug\File Operations.pdb

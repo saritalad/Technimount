@@ -1,0 +1,10 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\bin\Debug\netcoreapp3.1\A_dllDemo.deps.json
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\bin\Debug\netcoreapp3.1\A_dllDemo.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\bin\Debug\netcoreapp3.1\A_dllDemo.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.AssemblyInfoInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.AssemblyInfo.cs
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\A_dllDemo\obj\Debug\netcoreapp3.1\A_dllDemo.pdb

@@ -1,0 +1,5 @@
+   Assignment : 1Create a class Employee { id, firstname,lastname, basic_sal, static member empcount}
+2 write constructors 
+3 override ToString method ()
+4 create array of 5 emplyees , display total count of employees 
+5 write CalculateGrossSal function with formula : Basic_Sal+ HRR(72% of Basic_Sal)+ city Allownce (12 % of Basic_Sal)+ 500)

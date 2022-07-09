@@ -1,0 +1,98 @@
+Z:\Window Applications\FormProperties_example\bin\Release\FormProperties_example.exe
+Z:\Window Applications\FormProperties_example\bin\Release\FormProperties_example.pdb
+Z:\Window Applications\FormProperties_example\obj\Release\ResolveAssemblyReference.cache
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.AboutMe.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Aritmetic_opFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Combo_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Dialog_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Form1.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.GDI_Demo.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.MDIParent1.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeExample.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PaintBrushFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Planet_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PrintDialogs.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Properties.Resources.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.RunTimeButtons.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.StudentRegForm.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TextEventExample.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TreeViewExample.resources
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.csproj.GenerateResource.Cache
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.exe
+Z:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.pdb
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.exe
+D:\A_Seed\Window Applications\FormProperties_example\bin\Release\FormProperties_example.exe
+D:\A_Seed\Window Applications\FormProperties_example\bin\Release\FormProperties_example.pdb
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.AboutMe.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Aritmetic_opFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Combo_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Dialog_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Form1.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.GDI_Demo.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.MDIParent1.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PaintBrushFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Planet_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PrintDialogs.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Properties.Resources.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.RunTimeButtons.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.StudentRegForm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TextEventExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TreeViewExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.pdb
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Form3.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Release\FormProperties_example.csprojResolveAssemblyReference.cache
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.exe
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.pdb
+H:\Window Applications\FormProperties_example\bin\Release\FormProperties_example.exe
+H:\Window Applications\FormProperties_example\bin\Release\FormProperties_example.pdb
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.csprojResolveAssemblyReference.cache
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.AboutMe.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Aritmetic_opFrm.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Combo_Example.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Dialog_Example.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Form1.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Form3.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.GDI_Demo.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.MDIParent1.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeExample.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.NewNodeFrm.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PaintBrushFrm.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Planet_Example.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.PrintDialogs.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.Properties.Resources.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.RunTimeButtons.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.StudentRegForm.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TextEventExample.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.TreeViewExample.resources
+H:\Window Applications\FormProperties_example\obj\Release\FormProperties_example.csproj.GenerateResource.Cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Release\FormProperties_example.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Release\FormProperties_example.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Release\System.Web.Services.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.AboutMe.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Aritmetic_opFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Combo_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Dialog_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Form3.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.GDI_Demo.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.MDIParent1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.NewNodeExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.NewNodeFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.PaintBrushFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Planet_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.PrintDialogs.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.RunTimeButtons.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.StudentRegForm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.TextEventExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.TreeViewExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.csproj.CopyComplete
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Release\FormProperties_example.pdb

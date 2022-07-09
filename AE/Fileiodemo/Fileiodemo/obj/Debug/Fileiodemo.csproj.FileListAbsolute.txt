@@ -1,0 +1,33 @@
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.exe
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.pdb
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.exe
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.pdb
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Form1.resources
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Properties.Resources.resources
+C:\Users\sarita.lad\Desktop\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.exe
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.pdb
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.exe
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.pdb
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Form1.resources
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Properties.Resources.resources
+Z:\A_Win App Projects\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.GenerateResource.Cache
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.exe
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.pdb
+Z:\Window Applications\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.exe
+Z:\Window Applications\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.pdb
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Form1.resources
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Properties.Resources.resources
+Z:\Window Applications\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.GenerateResource.Cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\bin\Debug\Fileiodemo.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.pdb

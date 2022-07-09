@@ -1,0 +1,15 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\File operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\File operation\bin\Debug\File operation.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\File operation\bin\Debug\File operation.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\File operation\obj\Debug\File operation.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\File operation\obj\Debug\File operation.pdb
+Z:\A_Win App Projects\File operation\File operation\obj\Debug\File operation.exe
+Z:\A_Win App Projects\File operation\File operation\obj\Debug\File operation.pdb
+Z:\A_Win App Projects\File operation\File operation\bin\Debug\File operation.exe
+Z:\A_Win App Projects\File operation\File operation\bin\Debug\File operation.pdb
+Z:\A_Win App Projects\File operation\File operation\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\File operation\File operation\obj\Debug\File operation.exe
+Z:\Window Applications\File operation\File operation\obj\Debug\File operation.pdb
+Z:\Window Applications\File operation\File operation\bin\Debug\File operation.exe
+Z:\Window Applications\File operation\File operation\bin\Debug\File operation.pdb
+Z:\Window Applications\File operation\File operation\obj\Debug\ResolveAssemblyReference.cache

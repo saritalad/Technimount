@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditableGridView_SQL_VS2008", "EditableGridView_SQL_VS2008\EditableGridView_SQL_VS2008.csproj", "{8E817DE8-47FD-492E-9838-3B40F3434CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E817DE8-47FD-492E-9838-3B40F3434CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E817DE8-47FD-492E-9838-3B40F3434CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E817DE8-47FD-492E-9838-3B40F3434CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E817DE8-47FD-492E-9838-3B40F3434CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

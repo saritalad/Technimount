@@ -1,0 +1,10 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\bin\Debug\Anchor_Dock_Demo.exe.config
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\bin\Debug\Anchor_Dock_Demo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\bin\Debug\Anchor_Dock_Demo.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\Anchor_Dock_Demo\Anchor_Dock_Demo\obj\Debug\Anchor_Dock_Demo.pdb

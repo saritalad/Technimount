@@ -1,0 +1,10 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\bin\Debug\DataSet_Typed_UnTyped_Demo.exe.config
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\bin\Debug\DataSet_Typed_UnTyped_Demo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\bin\Debug\DataSet_Typed_UnTyped_Demo.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\ADO.Net22\DataSet_Typed_UnTyped_Demo\DataSet_Typed_UnTyped_Demo\obj\Debug\DataSet_Typed_UnTyped_Demo.pdb

@@ -1,0 +1,13 @@
+https://community.oracle.com/tech/developers/discussion/2511511/insert-into-oracle-database-using-c
+https://docs.oracle.com/cd/E11882_01/appdev.112/e10767/building_odp.htm#TDPNG40050
+
+string sql = "select department_name from departments where department_id = " +
+  ":department_id";
+OracleCommand cmd = new OracleCommand(sql, conn);
+cmd.CommandType = CommandType.Text;
+
+OracleParameter p_department_id = new OracleParameter(); 
+p_department_id.OracleDbType = OracleDbType.Decimal;     
+p_department_id.Value = departmentID.Text;                              
+cmd.Parameters.Add(p_department_id);       
+====================================

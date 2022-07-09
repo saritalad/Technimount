@@ -1,0 +1,26 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\bin\Debug\Serialization.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\bin\Debug\Serialization.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\Serialization.Form1.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\Serialization.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Serialization\obj\Debug\Serialization.pdb
+Z:\A_Win App Projects\File operation\Serialization\bin\Debug\Serialization.exe
+Z:\A_Win App Projects\File operation\Serialization\bin\Debug\Serialization.pdb
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\Serialization.Form1.resources
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\Serialization.exe
+Z:\A_Win App Projects\File operation\Serialization\obj\Debug\Serialization.pdb
+Z:\Window Applications\File operation\Serialization\obj\Debug\Serialization.exe
+Z:\Window Applications\File operation\Serialization\obj\Debug\Serialization.pdb
+Z:\Window Applications\File operation\Serialization\bin\Debug\Serialization.exe
+Z:\Window Applications\File operation\Serialization\bin\Debug\Serialization.pdb
+Z:\Window Applications\File operation\Serialization\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\File operation\Serialization\obj\Debug\Serialization.Form1.resources
+Z:\Window Applications\File operation\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+Z:\Window Applications\File operation\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\File operation\Serialization\obj\Debug\Serialization.exe
+D:\A_Seed\Window Applications\File operation\Serialization\obj\Debug\Serialization.pdb

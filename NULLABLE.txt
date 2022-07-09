@@ -1,0 +1,4 @@
+  Nullable<int> i = null;
+            // int j=null;
+            Nullable<bool> ans=null;
+            Console.WriteLine("i= "+i + ans);

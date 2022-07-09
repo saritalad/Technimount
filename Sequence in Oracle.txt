@@ -1,0 +1,37 @@
+CREATE SEQUENCE Id_seq
+  MINVALUE 1
+  START WITH 1
+  INCREMENT BY 1
+  CACHE 20;
+
+========================
+INSERT INTO suppliers
+(supplier_id, supplier_name)
+VALUES
+(supplier_seq.NEXTVAL, 'Kraft Foods');
+========================================
+DROP SEQUENCE supplier_seq;
+===================
+ CREATE SEQUENCE Id_seq minvalue 10 start with 10 increment by 1 cache 20;
+=========================================================================
+Foreign Key
+syntax:
+ create table country (id int primary key,countryname varchar(20));  
+
+create table state (id int primary key,statename varchar(20),countryid int,constraint fk_id foreign key
+ (countryid) references state(id));
+=============================================
+CREATE TABLE supplier
+( supplier_id numeric(10) not null,
+  supplier_name varchar2(50) not null,
+  contact_name varchar2(50),
+  CONSTRAINT supplier_pk PRIMARY KEY (supplier_id)
+);
+
+CREATE TABLE products
+( product_id numeric(10) not null,
+  supplier_id numeric(10) not null,
+  CONSTRAINT fk_supplier
+    FOREIGN KEY (supplier_id)
+    REFERENCES supplier(supplier_id)
+);

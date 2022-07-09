@@ -1,0 +1,15 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\StreamReaderExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.pdb
+Z:\A_Win App Projects\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.exe
+Z:\A_Win App Projects\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.pdb
+Z:\A_Win App Projects\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.exe
+Z:\A_Win App Projects\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.pdb
+Z:\A_Win App Projects\File operation\StreamReaderExample\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.exe
+Z:\Window Applications\File operation\StreamReaderExample\obj\Debug\StreamReaderExample.pdb
+Z:\Window Applications\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.exe
+Z:\Window Applications\File operation\StreamReaderExample\bin\Debug\StreamReaderExample.pdb
+Z:\Window Applications\File operation\StreamReaderExample\obj\Debug\ResolveAssemblyReference.cache

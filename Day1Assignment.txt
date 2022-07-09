@@ -1,0 +1,2 @@
+Assignment:1 Enter a number and find it is even or odd 2 enter weight in gm (5530 gm)and convert to Kg - gm (5kg-530gm)3: display 1 to 100 numbers using for loop display count of even numbers 4 enter 10 numbers and count odd numbers 
+5 display well formated o/p of Area of circle for that enter radius in integer 

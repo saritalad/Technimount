@@ -1,0 +1,5 @@
+1 Write A Program to count even numbers from given 10 diffferent integers.
+2 WAP to display greatest number out of 3 given numbers
+3 WAP to display area of rectangle, circle, triangle, square using switch case hint : c->circle,r->rectangle,t => tringle , s=> square 
+4 WAP to Find resistance, input current and voltage for 5 differnt entries.
+5 WAP to  display weight 5530 gm in the form 5Kg 530 gm (Hint : use modulus operator )

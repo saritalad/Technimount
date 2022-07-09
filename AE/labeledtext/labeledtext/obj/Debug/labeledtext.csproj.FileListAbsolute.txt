@@ -1,0 +1,9 @@
+Z:\SARITA\labeledtext\labeledtext\bin\Debug\labeledtext.dll
+Z:\SARITA\labeledtext\labeledtext\bin\Debug\labeledtext.pdb
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\labeledtext.LabelwithText.resources
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\labeledtext.Properties.Resources.resources
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\labeledtext.csproj.GenerateResource.Cache
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\labeledtext.dll
+Z:\SARITA\labeledtext\labeledtext\obj\Debug\labeledtext.pdb
+Z:\A_Win App Projects\labeledtext\labeledtext\obj\Debug\labeledtext.pdb

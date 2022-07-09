@@ -1,0 +1,15 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Binary Operator\bin\Debug\Binary Operator.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Binary Operator\bin\Debug\Binary Operator.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Binary Operator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Binary Operator\obj\Debug\Binary Operator.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\File operation\Binary Operator\obj\Debug\Binary Operator.pdb
+Z:\A_Win App Projects\File operation\Binary Operator\obj\Debug\Binary Operator.exe
+Z:\A_Win App Projects\File operation\Binary Operator\obj\Debug\Binary Operator.pdb
+Z:\A_Win App Projects\File operation\Binary Operator\bin\Debug\Binary Operator.exe
+Z:\A_Win App Projects\File operation\Binary Operator\bin\Debug\Binary Operator.pdb
+Z:\A_Win App Projects\File operation\Binary Operator\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\File operation\Binary Operator\obj\Debug\Binary Operator.exe
+Z:\Window Applications\File operation\Binary Operator\obj\Debug\Binary Operator.pdb
+Z:\Window Applications\File operation\Binary Operator\bin\Debug\Binary Operator.exe
+Z:\Window Applications\File operation\Binary Operator\bin\Debug\Binary Operator.pdb
+Z:\Window Applications\File operation\Binary Operator\obj\Debug\ResolveAssemblyReference.cache

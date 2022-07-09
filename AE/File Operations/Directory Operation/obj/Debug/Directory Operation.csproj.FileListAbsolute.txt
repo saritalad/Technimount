@@ -1,0 +1,21 @@
+Z:\File Operations\Directory Operation\bin\Debug\Directory Operation.exe
+Z:\File Operations\Directory Operation\bin\Debug\Directory Operation.pdb
+Z:\File Operations\Directory Operation\obj\Debug\ResolveAssemblyReference.cache
+Z:\File Operations\Directory Operation\obj\Debug\Directory Operation.exe
+Z:\File Operations\Directory Operation\obj\Debug\Directory Operation.pdb
+Z:\A_Win App Projects\File Operations\Directory Operation\bin\Debug\Directory Operation.exe
+Z:\A_Win App Projects\File Operations\Directory Operation\bin\Debug\Directory Operation.pdb
+Z:\A_Win App Projects\File Operations\Directory Operation\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\File Operations\Directory Operation\obj\Debug\Directory Operation.exe
+Z:\A_Win App Projects\File Operations\Directory Operation\obj\Debug\Directory Operation.pdb
+D:\A_Seed\Window Applications\File Operations\Directory Operation\bin\Debug\Directory Operation.exe
+D:\A_Seed\Window Applications\File Operations\Directory Operation\bin\Debug\Directory Operation.pdb
+D:\A_Seed\Window Applications\File Operations\Directory Operation\obj\Debug\ResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\File Operations\Directory Operation\obj\Debug\Directory Operation.exe
+D:\A_Seed\Window Applications\File Operations\Directory Operation\obj\Debug\Directory Operation.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\bin\Debug\Directory Operation.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\bin\Debug\Directory Operation.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\obj\Debug\Directory Operation.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\obj\Debug\Directory Operation.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\obj\Debug\Directory Operation.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\File Operations\Directory Operation\obj\Debug\Directory Operation.pdb

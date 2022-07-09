@@ -1,0 +1,11 @@
+create or replace procedure Add_names(name birthdates.name%type,dob birthdates.dob%type) 
+as
+tot_birthdates number:=0;
+begin
+insert into birthdates(id,name,dob) values(birthday_id.nextval,name,dob);
+--tot_birthdates:=tot_birthdates+1;
+end;
+/
+select * from birthdates
+
+

@@ -1,0 +1,7 @@
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\bin\Debug\TechniMount_Day4.exe.config
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\bin\Debug\TechniMount_Day4.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\bin\Debug\TechniMount_Day4.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\obj\Debug\TechniMount_Day4.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\obj\Debug\TechniMount_Day4.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\obj\Debug\TechniMount_Day4.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\DayWiseAE\TechniMount_Day1\TechniMount_Day4\obj\Debug\TechniMount_Day4.pdb

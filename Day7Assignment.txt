@@ -1,0 +1,4 @@
+Assignment: 1 Create Menu strip and attach all your assignment forms to the Menu 1 Radiobutton,ComboBox, TextBox
+ 2 ADO Connected,
+3 ADODisconnected 2 Form using Connected Ado to do crud operations on table Category (ID, CatName)
+3 Form using connected Ado for CRUD operation on Deparment table 

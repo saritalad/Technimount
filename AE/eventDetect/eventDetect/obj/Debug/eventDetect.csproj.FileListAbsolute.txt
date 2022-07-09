@@ -1,0 +1,10 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\bin\Debug\eventDetect.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\bin\Debug\eventDetect.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\eventDetect.Form1.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\eventDetect.Properties.Resources.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\eventDetect.csproj.GenerateResource.Cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\eventDetect.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\eventDetect\eventDetect\obj\Debug\eventDetect.pdb
+Z:\A_Win App Projects\eventDetect\eventDetect\obj\Debug\eventDetect.exe
+Z:\A_Win App Projects\eventDetect\eventDetect\obj\Debug\eventDetect.pdb

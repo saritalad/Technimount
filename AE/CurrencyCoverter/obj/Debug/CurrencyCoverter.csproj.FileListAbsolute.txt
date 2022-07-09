@@ -1,0 +1,8 @@
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\CurrencyCoverter.MyCurrencyConverter.resources
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\CurrencyCoverter.Properties.Resources.resources
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\CurrencyCoverter.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\CurrencyCoverter\bin\Debug\CurrencyCoverter.dll
+Z:\A_Win App Projects\CurrencyCoverter\bin\Debug\CurrencyCoverter.pdb
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\CurrencyCoverter.dll
+Z:\A_Win App Projects\CurrencyCoverter\obj\Debug\CurrencyCoverter.pdb

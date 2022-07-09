@@ -1,0 +1,2 @@
+I:\SCP26\c#demos\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.exe
+I:\SCP26\c#demos\Fileiodemo\Fileiodemo\obj\Debug\Fileiodemo.pdb

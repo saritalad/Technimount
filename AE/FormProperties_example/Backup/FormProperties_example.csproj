@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9A6757E7-881F-4A3A-B5EE-355590CC5026}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormProperties_example</RootNamespace>
+    <AssemblyName>FormProperties_example</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.5.3700.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.Shared\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutMe.Designer.cs">
+      <DependentUpon>AboutMe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aritmetic_opFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aritmetic_opFrm.Designer.cs">
+      <DependentUpon>Aritmetic_opFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Combo_Example.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combo_Example.Designer.cs">
+      <DependentUpon>Combo_Example.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_Example.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog_Example.Designer.cs">
+      <DependentUpon>Dialog_Example.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GDI_Demo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GDI_Demo.Designer.cs">
+      <DependentUpon>GDI_Demo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewNodeExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewNodeExample.Designer.cs">
+      <DependentUpon>NewNodeExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewNodeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewNodeFrm.Designer.cs">
+      <DependentUpon>NewNodeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaintBrushFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaintBrushFrm.Designer.cs">
+      <DependentUpon>PaintBrushFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Planet_Example.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Planet_Example.Designer.cs">
+      <DependentUpon>Planet_Example.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintDialogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintDialogs.Designer.cs">
+      <DependentUpon>PrintDialogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutMe.resx">
+      <DependentUpon>AboutMe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aritmetic_opFrm.resx">
+      <DependentUpon>Aritmetic_opFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combo_Example.resx">
+      <DependentUpon>Combo_Example.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog_Example.resx">
+      <DependentUpon>Dialog_Example.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GDI_Demo.resx">
+      <DependentUpon>GDI_Demo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewNodeExample.resx">
+      <DependentUpon>NewNodeExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewNodeFrm.resx">
+      <DependentUpon>NewNodeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaintBrushFrm.resx">
+      <DependentUpon>PaintBrushFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Planet_Example.resx">
+      <DependentUpon>Planet_Example.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintDialogs.resx">
+      <DependentUpon>PrintDialogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RunTimeButtons.resx">
+      <DependentUpon>RunTimeButtons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentRegForm.resx">
+      <DependentUpon>StudentRegForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextEventExample.resx">
+      <DependentUpon>TextEventExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeViewExample.resx">
+      <DependentUpon>TreeViewExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RunTimeButtons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RunTimeButtons.designer.cs">
+      <DependentUpon>RunTimeButtons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentRegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentRegForm.Designer.cs">
+      <DependentUpon>StudentRegForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextEventExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextEventExample.Designer.cs">
+      <DependentUpon>TextEventExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TreeViewExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TreeViewExample.Designer.cs">
+      <DependentUpon>TreeViewExample.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design.jpg" />
+    <Content Include="Images\Aircraft.bmp" />
+    <Content Include="Images\Earth.bmp" />
+    <Content Include="Images\Mars.bmp" />
+    <Content Include="Images\Mercury.bmp" />
+    <Content Include="Images\meteor.bmp" />
+    <Content Include="Images\neptune.bmp" />
+    <Content Include="Images\Pluto.bmp" />
+    <Content Include="Images\Saturn.bmp" />
+    <Content Include="Images\Sun.bmp" />
+    <Content Include="Images\Uranus.bmp" />
+    <Content Include="Images\venus.bmp" />
+    <Content Include="mylogo.jpg" />
+    <None Include="Resources\mylogo.jpg" />
+    <None Include="Resources\design1.jpg" />
+    <None Include="Resources\Peacockdesign.jpg" />
+    <Content Include="seed icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

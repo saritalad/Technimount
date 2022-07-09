@@ -1,0 +1,165 @@
+D:\FormProperties_example\bin\Debug\FormProperties_example.exe
+D:\FormProperties_example\bin\Debug\FormProperties_example.pdb
+D:\FormProperties_example\obj\Debug\ResolveAssemblyReference.cache
+D:\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+D:\FormProperties_example\obj\Debug\FormProperties_example.exe
+D:\FormProperties_example\obj\Debug\FormProperties_example.pdb
+D:\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+D:\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.exe
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.pdb
+Z:\A_Win App Projects\FormProperties_example\bin\Debug\FormProperties_example.exe
+Z:\A_Win App Projects\FormProperties_example\bin\Debug\FormProperties_example.pdb
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+Z:\A_Win App Projects\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.exe
+Z:\FormProperties_example\obj\Debug\FormProperties_example.pdb
+Z:\FormProperties_example\bin\Debug\FormProperties_example.exe
+Z:\FormProperties_example\bin\Debug\FormProperties_example.pdb
+Z:\FormProperties_example\obj\Debug\ResolveAssemblyReference.cache
+Z:\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+Z:\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.exe
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.pdb
+Z:\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.exe
+Z:\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.pdb
+Z:\Window Applications\FormProperties_example\obj\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+Z:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.exe
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.pdb
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+D:\A_Seed\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.exe
+D:\A_Seed\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.pdb
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.csprojResolveAssemblyReference.cache
+D:\A_Seed\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Form3.resources
+D:\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.exe
+D:\Window Applications\FormProperties_example\bin\Debug\FormProperties_example.pdb
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.csprojResolveAssemblyReference.cache
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Form3.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.Cache
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.exe
+D:\Window Applications\FormProperties_example\obj\Debug\FormProperties_example.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Debug\FormProperties_example.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Debug\FormProperties_example.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\bin\Debug\System.Web.Services.dll
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.AboutMe.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Aritmetic_opFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Combo_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Dialog_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Form3.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.GDI_Demo.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.MDIParent1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.NewNodeExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.NewNodeFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.PaintBrushFrm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Planet_Example.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.PrintDialogs.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.RunTimeButtons.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.StudentRegForm.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.TextEventExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.TreeViewExample.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.csproj.CopyComplete
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\FormProperties_example\obj\Debug\FormProperties_example.pdb

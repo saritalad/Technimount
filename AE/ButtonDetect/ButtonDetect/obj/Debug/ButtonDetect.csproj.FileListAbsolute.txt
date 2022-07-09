@@ -1,0 +1,16 @@
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\bin\Debug\ButtonDetect.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\bin\Debug\ButtonDetect.pdb
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.Form1.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.Properties.Resources.resources
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.csproj.GenerateResource.Cache
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.exe
+C:\Documents and Settings\sarita.lad\My Documents\Visual Studio 2008\Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.pdb
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.exe
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.pdb
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\bin\Debug\ButtonDetect.exe
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\bin\Debug\ButtonDetect.pdb
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.Form1.resources
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.Properties.Resources.resources
+Z:\A_Win App Projects\ButtonDetect\ButtonDetect\obj\Debug\ButtonDetect.csproj.GenerateResource.Cache

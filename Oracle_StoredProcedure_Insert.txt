@@ -1,0 +1,12 @@
+create or replace procedure Add_dept(id dept.id%type,depname dept.depname%type) 
+as
+tot_dept number:=0;
+begin
+insert into dept(id,depname) values(id,depname);
+--tot_dept:=tot_dept+1;
+end;
+
+select * from dept_temp
+
+
+execute Add_dept(5,'SALES');

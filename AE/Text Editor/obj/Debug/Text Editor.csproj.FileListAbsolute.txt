@@ -1,0 +1,33 @@
+D:\Text Editor\bin\Debug\Text Editor.exe
+D:\Text Editor\bin\Debug\Text Editor.pdb
+D:\Text Editor\obj\Debug\ResolveAssemblyReference.cache
+D:\Text Editor\obj\Debug\Text_Editor.MDIParent1.resources
+D:\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+D:\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.Cache
+D:\Text Editor\obj\Debug\Text Editor.exe
+D:\Text Editor\obj\Debug\Text Editor.pdb
+D:\Text Editor\obj\Debug\Text_Editor.Form1.resources
+D:\Text Editor\obj\Debug\Text_Editor.MDIParent.resources
+F:\UpLoad Seed\Text Editor\obj\Debug\Text Editor.exe
+F:\UpLoad Seed\Text Editor\obj\Debug\Text Editor.pdb
+F:\UpLoad Seed\Text Editor\bin\Debug\Text Editor.exe
+F:\UpLoad Seed\Text Editor\bin\Debug\Text Editor.pdb
+F:\UpLoad Seed\Text Editor\obj\Debug\ResolveAssemblyReference.cache
+F:\UpLoad Seed\Text Editor\obj\Debug\Text_Editor.Form1.resources
+F:\UpLoad Seed\Text Editor\obj\Debug\Text_Editor.MDIParent.resources
+F:\UpLoad Seed\Text Editor\obj\Debug\Text_Editor.MDIParent1.resources
+F:\UpLoad Seed\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+F:\UpLoad Seed\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text Editor.exe
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text Editor.pdb
+Z:\A_Win App Projects\Text Editor\bin\Debug\Text Editor.exe
+Z:\A_Win App Projects\Text Editor\bin\Debug\Text Editor.pdb
+Z:\A_Win App Projects\Text Editor\obj\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.Form1.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.MDIParent.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.MDIParent1.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.Cache
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.GDI_DEmo.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.Form2.resources
+Z:\A_Win App Projects\Text Editor\obj\Debug\Text_Editor.Form3.resources

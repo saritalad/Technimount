@@ -1,0 +1,2 @@
+Assignment: 1Write class Food (iD,name, type ,price )add 10 items in list and sort this list 
+2 remove item  position 2, 2 Write  a class person with name, SSN number and age , use lambda expression to display persons in the list of Persons 3 Display persons with age >60 using lambda expression.4 Find if any person in age range 19 to 35 is there or not 5 find the person  who is oldest one .

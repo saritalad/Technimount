@@ -1,0 +1,4 @@
+Assignment: 1create form for tax calculator 2 create form  add combobox 
+to select background color or form 3 Registraion Form of student to enter name,
+ date of birth, address, mobile no, city select from comboBox ,4 Use ListBox to display
+ 10 names of countries and display image in OictureBox of selected Country .

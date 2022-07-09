@@ -1,0 +1,10 @@
+Z:\A_Win App Projects\File_save_assignment\File_save_assignment\obj\x86\Debug\Lab Exercise 10.exe
+Z:\A_Win App Projects\File_save_assignment\File_save_assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\A_Win App Projects\File_save_assignment\File_save_assignment\obj\x86\Debug\FILESAVE.Form1.resources
+Z:\A_Win App Projects\File_save_assignment\File_save_assignment\obj\x86\Debug\Lab_Exercise_10.Properties.Resources.resources
+Z:\A_Win App Projects\File_save_assignment\File_save_assignment\obj\x86\Debug\FILESAVE.csproj.GenerateResource.Cache
+Z:\Window Applications\FileSave\File_save_assignment\obj\x86\Debug\Lab Exercise 10.exe
+Z:\Window Applications\FileSave\File_save_assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Window Applications\FileSave\File_save_assignment\obj\x86\Debug\FILESAVE.Form1.resources
+Z:\Window Applications\FileSave\File_save_assignment\obj\x86\Debug\Lab_Exercise_10.Properties.Resources.resources
+Z:\Window Applications\FileSave\File_save_assignment\obj\x86\Debug\FILESAVE.csproj.GenerateResource.Cache

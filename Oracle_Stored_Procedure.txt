@@ -1,0 +1,17 @@
+
+create procedure remove_dept(dept_id number) as
+tot_dept number;
+begin
+delete from dept
+where dept.id=remove_dept.dept_id;
+tot_dept:=tot_dept-1;
+end;
+=====================
+ execute remove_dept(4);
+=================================
+create procedure Add_dept(id number,name varchar2(20)) as
+tot_dept number;
+begin
+insert into dept(id,depname)values(id,name);
+tot_dept:=tot_dept+1;
+end;

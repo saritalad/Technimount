@@ -1,0 +1,24 @@
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.exe.config
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.exe
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.pdb
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.exe
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.pdb
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\ResolveAssemblyReference.cache
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form1.resources
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form2.resources
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form3.resources
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form4.resources
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Properties.Resources.resources
+H:\ClassroomDemo\OLD C# demos\OLD C# demos\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.csproj.GenerateResource.Cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.csproj.AssemblyReference.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.pdb
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form1.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form2.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Form5.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.Properties.Resources.resources
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.csproj.GenerateResource.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\obj\Debug\disconnecteddemo.csproj.CoreCompileInputs.cache
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.exe.config
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.exe
+D:\OnDriveSamiksha\OneDrive\Desktop\TechniMount\AE\disconnecteddemo\disconnecteddemo\bin\Debug\disconnecteddemo.pdb

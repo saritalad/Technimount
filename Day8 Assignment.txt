@@ -1,0 +1,1 @@
+Assignment:1  attach Form to previously created Menu of ADO connected ,2 form to CRUD operation on Product Table(Id,Name, price,CategoryId,Manufacturedate) using disconnected ADO 3 form to do CRUD operation on Employee using disconnected ADO (Hint: use comboBox for category and Department tables to insert data for foreign Key data in table Product and employee)

@@ -1,0 +1,2 @@
+GUI Application To display Details of each product of Techimout using ComboBox, ListBox DataGridView , 
+Use ADO.Net to store data in Oracle Tables

@@ -1,0 +1,10 @@
+// Connection string format: User Id=[username];Password=[password];Data Source=[hostname]:[port]/[DB service name];
+OracleConnection con = new OracleConnection("User Id=[Username];Password=[Password];Data
+Source=localhost:1521/XEPDB1;");
+con.Open();
+OracleCommand cmd = con.CreateCommand();
+cmd.CommandText = "SELECT \'Hello World!\' FROM dual";
+ 
+OracleDataReader reader = cmd.ExecuteReader();
+reader.Read();
+Console.WriteLine(reader.GetString(0));

@@ -1,0 +1,7 @@
+1 WAP to find overloaded function to find area of circle and Rectangle
+2 wap static function convert currency dollar to Rupees 
+3 Write a class book with appropriate properies and method do display bookdetails 
+4 in question 3 write constructor  default and parameterised .
+5 write class   mobile with brand, model, Ram Speed with private constructor and use tostring method to display details create 2 objects using 
+parametrised and default constructor.
+6 write array to enter names of 5 books , show details of each book using Display method.

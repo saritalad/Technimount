@@ -1,0 +1,18 @@
+D:\Grid Update\Grid Update\obj\Debug\ResolveAssemblyReference.cache
+D:\Grid Update\Grid Update\obj\Debug\Grid_Update.Form1.resources
+D:\Grid Update\Grid Update\obj\Debug\Grid_Update.Properties.Resources.resources
+D:\Grid Update\Grid Update\obj\Debug\Grid Update.csproj.GenerateResource.Cache
+D:\Grid Update\Grid Update\bin\Debug\Grid Update.exe
+D:\Grid Update\Grid Update\bin\Debug\Grid Update.pdb
+D:\Grid Update\Grid Update\obj\Debug\Grid Update.exe
+D:\Grid Update\Grid Update\obj\Debug\Grid Update.pdb
+\\nalanda\MODULAR FACULTY\sarita.lad\Grid Update\Grid Update\obj\Debug\Grid Update.exe
+\\nalanda\MODULAR FACULTY\sarita.lad\Grid Update\Grid Update\obj\Debug\Grid Update.pdb
+Z:\Grid Update\Grid Update\obj\Debug\Grid Update.exe
+Z:\Grid Update\Grid Update\obj\Debug\Grid Update.pdb
+Z:\Grid Update\Grid Update\bin\Debug\Grid Update.exe
+Z:\Grid Update\Grid Update\bin\Debug\Grid Update.pdb
+Z:\Grid Update\Grid Update\obj\Debug\ResolveAssemblyReference.cache
+Z:\Grid Update\Grid Update\obj\Debug\Grid_Update.Form1.resources
+Z:\Grid Update\Grid Update\obj\Debug\Grid_Update.Properties.Resources.resources
+Z:\Grid Update\Grid Update\obj\Debug\Grid Update.csproj.GenerateResource.Cache

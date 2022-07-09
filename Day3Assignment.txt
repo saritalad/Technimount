@@ -1,0 +1,11 @@
+Assignments
+1 : Class Employee with {id,name,salary,department(enum), DOJ (containment)}, 
+2 write static method Display_GrossSal(Employee emp) in Employee class and use same formula frm day2 example.
+3 Inherit employee class to manager class.manger class has Commision decimal and salesQuantity fields 
+4 in main function call Display_GrossSal(Employee emp) function but pass object of manager to it. see the result.
+
+==================================================================================================================
+ 1: write abstract class bird , inhert to Sparrow and Peacock  implement showColor  abstract method , 
+Write class ElectronicDevice inhert to Laptop, PC,Mobile write appropriate methods and override them. 
+2 Write appropriate example of inhertance and interface in engineering process of your choice 
+3 write one sealed class. 4 write example of nested class in engineering field.

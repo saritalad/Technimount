@@ -1,0 +1,5 @@
+Z:\SARITA\UserControl\UserControl\obj\Debug\ResolveAssemblyReference.cache
+Z:\SARITA\UserControl\UserControl\obj\Debug\UserControl.CurrencyConerter.resources
+Z:\SARITA\UserControl\UserControl\obj\Debug\UserControl.Properties.Resources.resources
+Z:\SARITA\UserControl\UserControl\obj\Debug\UserControl.csproj.GenerateResource.Cache
+Z:\SARITA\UserControl\UserControl\obj\Debug\UserControlnm.CurrencyConerter.resources

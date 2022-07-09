@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="labeledtext">
+</Property><Property Name="Solution File" Value="D:\A_Seed\Window Applications\labeledtext\labeledtext.sln">
+</Property><Property Name="User Options File" Value="D:\A_Seed\Window Applications\labeledtext\labeledtext.suo">
+</Property><Property Name="Date" Value="Thursday, January 21, 2016">
+</Property><Property Name="Time" Value="9:13 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="labeledtext.sln" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext.sln">
+</Event><Event ErrorLevel="0" Project="" Source="labeledtext.suo" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext.suo">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\labeledtext.csproj" Description="Project file successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\labeledtext.csproj">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\LabelwithText.cs" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\LabelwithText.cs">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\LabelwithText.Designer.cs" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\LabelwithText.Designer.cs">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\Properties\Settings.settings" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\LabelwithText.resx" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\LabelwithText.resx">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\Properties\Resources.resx" Description="File successfully backed up as D:\A_Seed\Window Applications\labeledtext\Backup\labeledtext\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\labeledtext.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="labeledtext" Source="labeledtext\labeledtext.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="labeledtext.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="labeledtext.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="labeledtext" Source="labeledtext\labeledtext.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+Assignments:1 write program to find area of rectangle using ref and out word
+ 2 write pfunction use params to display emplyeenames and other parameter as departmanet name
+.3 write class book {Id, Name,Sublect,Auther, Publication date} write display function to show details,
+4 write static class mymath to do arithmetic function create dll and install it in GAC
+ 5 write jagged array with 5 arrays of random size and initialise it and display it.6 create dll of it and install in GAC
